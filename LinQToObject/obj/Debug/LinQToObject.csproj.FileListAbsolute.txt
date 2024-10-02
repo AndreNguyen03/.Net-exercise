@@ -1,0 +1,10 @@
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.csproj.AssemblyReference.cache
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.Form1.resources
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.Properties.Resources.resources
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.csproj.GenerateResource.cache
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.csproj.CoreCompileInputs.cache
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\bin\Debug\LinQToObject.exe.config
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\bin\Debug\LinQToObject.exe
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\bin\Debug\LinQToObject.pdb
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.exe
+D:\NgocAnh\Nam3-ki1\Công nghệ .NET\Excircise\LinQToObject\obj\Debug\LinQToObject.pdb

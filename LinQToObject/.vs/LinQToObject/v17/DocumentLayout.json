@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\presenter layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:presenter layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\presenter layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:presenter layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\entity layer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:entity layer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\presenter layer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:presenter layer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\business layer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:business layer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\excircise\\linqtoobject\\data layer\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B011AB26-E166-4383-B25C-A2312BDD27F2}|LinQToObject.csproj|solutionrelative:data layer\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Presenter Layer\\Form1.Designer.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.Designer.cs",
+              "RelativeToolTip": "Presenter Layer\\Form1.Designer.cs",
+              "ViewState": "AQIAAK8BAAAAAAAAAAAAALsBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:33:41.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Business Layer\\ProductBL.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ProductBL.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Business Layer\\ProductBL.cs",
+              "RelativeToolTip": "Business Layer\\ProductBL.cs",
+              "ViewState": "AQIAACsAAAAAkJmZmZnpv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:55:04.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Data Layer\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "Data Layer\\ProductDAL.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Data Layer\\ProductDAL.cs",
+              "RelativeToolTip": "Data Layer\\ProductDAL.cs",
+              "ViewState": "AQIAABcAAABgmJmZmZktwDMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:52:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Entity Layer\\Product.cs",
+              "RelativeDocumentMoniker": "Entity Layer\\Product.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Entity Layer\\Product.cs",
+              "RelativeToolTip": "Entity Layer\\Product.cs",
+              "ViewState": "AQIAAAgAAAAQAAAAAEA1wAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:34:25.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "Presenter Layer\\Form1.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.cs [Design]",
+              "RelativeToolTip": "Presenter Layer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:51:34.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "Presenter Layer\\Form1.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Excircise\\LinQToObject\\Presenter Layer\\Form1.cs",
+              "RelativeToolTip": "Presenter Layer\\Form1.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAiwIsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:03:11.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
