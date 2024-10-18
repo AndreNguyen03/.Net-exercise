@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitequanlybanhang\\data\\websitequanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:data\\websitequanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\views\\catalogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:views\\catalogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6D8054-E1A0-45BA-911A-EBCBB461A669}|WebsiteQuanLyBanHang.csproj|solutionrelative:controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +38,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebsiteQuanLyBanHangContext.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Data\\WebsiteQuanLyBanHangContext.cs",
+              "RelativeDocumentMoniker": "Data\\WebsiteQuanLyBanHangContext.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Data\\WebsiteQuanLyBanHangContext.cs",
+              "RelativeToolTip": "Data\\WebsiteQuanLyBanHangContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:40:59.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:55:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -42,15 +84,24 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:40:46.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,27 +111,26 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T10:07:11.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
               "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAgy8zMzMwUwCkAAAAQAAAA",
+              "ViewState": "AQIAABgAAAAgy8zMzMwUwC4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T09:38:41.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T09:38:41.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Views\\Catalogs\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Catalogs\\Index.cshtml",
@@ -92,15 +142,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CatalogsController.cs",
               "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\CatalogsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CatalogsController.cs",
               "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteQuanLyBanHang\\Controllers\\CatalogsController.cs",
               "RelativeToolTip": "Controllers\\CatalogsController.cs",
-              "ViewState": "AQIAAAgAAAAALjMzMzP7vxYAAAAtAAAA",
+              "ViewState": "AQIAAE8AAAAAxMzMzMwQwF8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:34:12.608Z"
+              "WhenOpened": "2024-10-07T09:34:12.608Z",
+              "EditorCaption": ""
             }
           ]
         },

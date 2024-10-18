@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|d:\\ngocanh\\nam3-ki1\\c\u00F4ng ngh\u1EC7 .net\\exercise\\websitebanhang\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB425189-5564-4368-ABE8-6EAD8DF5ED83}|WebsiteBanHang.csproj|solutionrelative:areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:11:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwEoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:10:58.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModels\\Product.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "Models\\ProductModels\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:02:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:35:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAgwA0BAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:31:00.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:30:51.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:22:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:07:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authentication\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:19:02.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:11:59.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:05:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "D:\\NgocAnh\\Nam3-ki1\\C\u00F4ng ngh\u1EC7 .NET\\Exercise\\WebsiteBanHang\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:58:54.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

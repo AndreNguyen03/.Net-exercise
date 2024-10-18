@@ -3,8 +3,11 @@ using Microsoft.Extensions.DependencyInjection;
 using WebsiteQuanLyBanHang.Data;
 using WebsiteQuanLyBanHang.Models;
 var builder = WebApplication.CreateBuilder(args);
+
+
 builder.Services.AddDbContext<WebsiteQuanLyBanHangContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WebsiteQuanLyBanHangContext") ?? throw new InvalidOperationException("Connection string 'WebsiteQuanLyBanHangContext' not found.")));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
